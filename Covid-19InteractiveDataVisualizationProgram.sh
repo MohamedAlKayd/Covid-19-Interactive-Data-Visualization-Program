@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-# Mohamed Yasser Anwar Mahmoud AlKayd
+# Mohamed Mahmoud
 # Covid-19 Interactive Data Visualization Program
 
 # - Start of the Program - 
